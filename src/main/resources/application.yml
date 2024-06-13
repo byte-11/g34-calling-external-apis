@@ -1,0 +1,10 @@
+server:
+  port: 9090
+spring:
+  application:
+    name: g34-calling-external-apis
+  data:
+    mongodb:
+#      username: root-1
+#      password: 1596mongo
+      database: db_calling_external_apis
